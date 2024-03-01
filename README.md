@@ -8,3 +8,8 @@
 Kem0908/Kem0908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+英語で記述するのは大変なので、ここからは日本語で。
+
+まずはGitHubを使えこなせるように頑張ります。
+それから英語を正しく読めるように頑張ります。

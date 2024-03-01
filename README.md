@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 英語で記述するのは大変なので、ここからは日本語で。
 
-Qiitaでよくわからない記事を生成系AIと共に文章化して投稿しています。他人には絶対に役にたなない...
+Qiitaでよくわからない記事を生成系AIと共に文章化して投稿しています。他人には絶対に役にたたない...
 
 まずはGitHubを使えこなせるように頑張ります。
 

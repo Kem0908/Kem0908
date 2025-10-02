@@ -1,18 +1,3 @@
 - 👋 Hi, I’m @Kem0908
-- 👀 I'm interested in IT in general, and I enjoy collecting information about IT, but my skills are similar to a beginner.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on a group of beginners to get together and develop.
-- 📫 How to reach me ...
 
-<!---
-Kem0908/Kem0908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-英語で記述するのは大変なので、ここからは日本語で。
-
-Qiitaでよくわからない記事を生成系AIと共に文章化して投稿しています。他人には絶対に役にたたない...
-
-まずはGitHubを使えこなせるように頑張ります。
-
-それから英語を正しく読めるように頑張ります。
+とある一般企業の社内SE/C#がOracleSQLメインのフロントとバックエンドを少々開発/英語は勉強中だけど停滞中.
